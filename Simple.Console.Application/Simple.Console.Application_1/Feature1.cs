@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Simple.Console.Application_1
 {
-    class Program
+    class Feature1
     {
-        static void Main(string[] args)
+        public int Add(int x1, int x2)
         {
-            //Hello there, this is my first comment
-
-            //Feature 2 added
+            return x1 + x2;
         }
     }
 }
