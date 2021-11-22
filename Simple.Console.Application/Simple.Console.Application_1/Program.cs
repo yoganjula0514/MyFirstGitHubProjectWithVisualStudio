@@ -11,7 +11,8 @@ namespace Simple.Console.Application_1
         static void Main(string[] args)
         {
             //Hello there, this is my first comment
-            //Second comment
+
+            //Feature 2 added
         }
     }
 }
