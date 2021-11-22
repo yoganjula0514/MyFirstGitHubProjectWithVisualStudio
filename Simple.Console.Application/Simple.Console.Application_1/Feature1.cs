@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace Simple.Console.Application_1
 {
-    class Program
+    class Feature1
     {
-        static void Main(string[] args)
-        {
-            //Hello there, this is my first comment
-            //Second comment
-        }
     }
 }
